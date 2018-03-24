@@ -1,5 +1,5 @@
 <?php
-	define('ROOT_URL', 'http://localhost/phpsandbox/website8/');
+	define('ROOT_URL', 'http://localhost/phpsandbox');
 	define('DB_HOST', 'localhost');
 	define('DB_USER', 'root');
 	define('DB_PASS', '123456');
